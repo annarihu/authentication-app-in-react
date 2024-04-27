@@ -4,7 +4,7 @@ This is an example application I created to showcase how to implement authentica
 
 To run the application first clone the repository
 ```
-git clone https://github.com/faizanv/authentication-app-in-react.git
+git clone https://github.com/annarihu/authentication-app-in-react.git
 ```
 
 Install the dependencies
